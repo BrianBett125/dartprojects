@@ -2,6 +2,7 @@ Skip to content
 Chat history
 
 
+
 You said:
 ased on this week's module and the live session, set specific, achievable goals for the upcoming week to advance your job search and career development.
 
