@@ -10,4 +10,4 @@ dependencies:
 dev_dependencies:
   test: ^1.16.0  # Add this line for the test package
 
-repository: https://github.com/BrianBett125/my_dart_project  # Add your repo URL here
+repository: https://github.com/BrianBett125/my_dart_project
